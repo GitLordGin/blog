@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+
+
+.App{
+}
+
+.AboutMe {
+    border: 1px solid black;
+
+}
+
+.Info {
+}
+
+.Info img {
+    max-width: 10px;
+}
+
+.text_title {
+}
+
+.text_title_2 {
+}
+
+.text_title_3 {
+    text-align: left;
+    max-width: 400px;
+    margin: 0 auto;
+    color: whitesmoke;
+}
+
+.text {
+    text-align: left;
+    max-width: 400px;
+    margin: 0 auto;
+    color: whitesmoke;
+}
+
+.button {
+}
+
+.Paragraph {
+}
+
+.container {
+    background-color: green;
+    max-width: 1120px;
+    padding: 0px 16px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.picture {
+    max-width: 400px;
+    width: 100%;
+    object-fit: contain;
+    border-radius: 10px 10px 0 0;
+}
+
+.wrapper {
+    background-color: red;
+    position: relative;
+}
+
+.shit {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: aqua;
+    border-radius: 50%;
+}
