@@ -2,8 +2,7 @@ import React from "react";
 
 function Interests() {
     return(
-        <div className="wrapper">
-        <div className="container">
+        <div className="Paragraph">
             <div className="text_title_3">Interests</div>
             <div className="text">
                 As you can alredy guess I am intrested in programing.
@@ -12,7 +11,6 @@ function Interests() {
                 and also whould love to excerises more and improve
                 my english and other language skills.
             </div>
-        </div>
         </div>
     )
 }
